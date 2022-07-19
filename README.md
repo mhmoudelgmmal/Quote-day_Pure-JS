@@ -1,0 +1,1 @@
+# Quote-day_Pure-JS
